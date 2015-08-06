@@ -1,0 +1,3 @@
+Arabica=2
+Robusta=4
+Liberica=8
